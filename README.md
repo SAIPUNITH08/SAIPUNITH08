@@ -99,33 +99,51 @@ const saiPunith = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Impact
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 🔥 Total Contributions | 37+ |
-| ⭐ Public Repos | 3 |
-| 🏢 Company | Nextbrain Technologies |
-| 📍 Location | Bengaluru, India |
-| 💼 Experience | 1.5 Years |
-| 🎓 Education | B.E. CSE — SJCIT (7.7 CGPA) |
+### 🚀 Professional Impact
 
-</div>
+| 🎯 Metric | 📈 Result |
+|-----------|-----------|
+| ⚡ Rendering Performance | **+30% improvement** at Nextbrain Technologies |
+| 📦 Bundle Size | **-25% reduction** via code-splitting & tree-shaking |
+| 🔌 API Test Coverage | **40+ endpoints** tested & validated |
+| ⏱️ Real-Time Latency | **Sub-second** WebSocket updates in Workforce Platform |
+| 🤖 AI Platform | **Live in production** — LLaMA 3.3-70B integrated |
+| 👥 Recruiter Efficiency | **+40% improvement** via AI Voice Agent |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAIPUNITH08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIPUNITH08&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<br/>
+
+### 💻 Coding Activity
+
+![Python](https://img.shields.io/badge/Python-Most_Used-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Daily_Driver-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Everyday-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Production_Apps-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<br/>
+
+![GitHub followers](https://img.shields.io/github/followers/SAIPUNITH08?style=for-the-badge&logo=github&color=181717)
+![GitHub User's stars](https://img.shields.io/github/stars/SAIPUNITH08?affiliations=OWNER&style=for-the-badge&logo=github&color=ffd700)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIPUNITH08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|-----------------|----------|---------|
+| 🤖 Claude Code in Action | **Anthropic** | 2026 |
+| 🧠 AI & ML Engineer | Rooman Technologies | 2025 |
+| ⚛️ ReactJS & JavaScript | Infosys Springboard | 2024 |
+| 🐍 Python Programming | Aqmenz Automation | 2024 |
+| ☕ Java Programming | Great Learning | 2023 |
+
 </div>
 
 ---
