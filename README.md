@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C8F560&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sai+Punith+K+R+👋;Software+Engineer+%7C+AI+Builder;React+%7C+Next.js+%7C+TypeScript;Building+things+that+matter+🚀" alt="Typing SVG" />
+
+# 👋 Hi, I'm Sai Punith K R
+
+### 🚀 Software Engineer | AI Builder | React · Next.js · TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8F560&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Nextbrain+Technologies;Building+AI-Powered+Web+Applications;React+%7C+Next.js+%7C+TypeScript+%7C+Python;Real-Time+Systems+%7C+Firebase+%7C+Socket.IO" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -130,5 +136,5 @@ const saiPunith = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C8F560&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+some+repos!;Open+to+exciting+opportunities+🚀;Let's+build+something+remarkable+together!" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=C8F560&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+some+repos!;Open+to+exciting+opportunities+🚀;Let's+build+something+remarkable+together!" alt="Footer" />
 </div>
