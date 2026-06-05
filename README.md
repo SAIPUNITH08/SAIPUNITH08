@@ -102,12 +102,22 @@ const saiPunith = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAIPUNITH08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIPUNITH08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
+
+| Metric | Value |
+|--------|-------|
+| 🔥 Total Contributions | 37+ |
+| ⭐ Public Repos | 3 |
+| 🏢 Company | Nextbrain Technologies |
+| 📍 Location | Bengaluru, India |
+| 💼 Experience | 1.5 Years |
+| 🎓 Education | B.E. CSE — SJCIT (7.7 CGPA) |
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAIPUNITH08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAIPUNITH08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIPUNITH08&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
@@ -115,7 +125,7 @@ const saiPunith = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIPUNITH08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAIPUNITH08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
