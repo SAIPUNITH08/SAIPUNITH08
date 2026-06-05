@@ -102,12 +102,12 @@ const saiPunith = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAIPUNITH08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIPUNITH08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAIPUNITH08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIPUNITH08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SAIPUNITH08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAIPUNITH08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ const saiPunith = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIPUNITH08&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAIPUNITH08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </div>
 
 ---
