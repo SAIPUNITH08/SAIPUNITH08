@@ -35,7 +35,7 @@ const saiPunith = {
 ```
 
 - 🔥 Building production-grade **React/Next.js** apps with real-time WebSocket & Firebase integrations
-- 🤖 Shipped a **live AI platform** powered by Groq LLaMA 3.3-70B — [ai-career-platform.streamlit.app](https://ai-career-platform.streamlit.app)
+- 🤖 Shipped a **live AI platform** powered by Groq LLaMA 3.3-70B — [ai-career-platform.streamlit.app](https://aicareer-intelligence-platform.vercel.app)
 - ⚡ Achieved **30% rendering improvement** & **25% bundle size reduction** in production apps
 - 🎯 Love building at the intersection of **Frontend + AI + Real-Time Systems**
 - 📸 470 followers on Instagram — [@offx._pun_i._th_](https://www.instagram.com/offx._pun_i._th_?igsh=MWtsNmFtMGJscGRvdA%3D%3D)
