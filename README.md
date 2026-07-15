@@ -92,7 +92,7 @@ const saiPunith = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🤖 **AI Career Intelligence Platform** | ATS Resume Analyzer + Job Finder + Cold Email Generator powered by LLaMA 3.3-70B | Python, Streamlit, Groq AI, Plotly | [Live ↗](https://ai-career-platform.streamlit.app) |
+| 🤖 **AI Career Intelligence Platform** | ATS Resume Analyzer + Job Finder + Cold Email Generator powered by LLaMA 3.3-70B | Python, Streamlit, Groq AI, Plotly | [Live ↗](https://aicareer-intelligence-platform.vercel.app) |
 | 🎤 **AI Recruiter Voice Agent** | Real-time AI voice recruiting agent with RBAC auth & automated scheduling | Next.js, TypeScript, Vapi, Supabase | Private |
 | ⚡ **Real-Time Workforce Platform** | WebSocket live comms + Firebase chat + GPS employee tracking | React, Socket.IO, Firebase, Geolocation API | Private |
 | 📊 **AI SaaS Analytics Dashboard** | AI-powered business analytics with real-time charts & Claude insights | Next.js, TypeScript, Recharts, OpenAI | [Live ↗](https://saipunithkr.vercel.app) |
